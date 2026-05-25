@@ -1,0 +1,38 @@
+.main-heading {
+  display: inline-block;
+    text-align: left;
+}
+
+body {
+    text-align: left;
+}
+.h-center {
+    color: blue;
+}
+.image-container {
+  text-align: center; /* Options: left, center, right */
+}
+.poem-layout {
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+}
+pre{
+    text-align: center;
+    font-family:Quicksand, sans-serif;
+    font-weight: 550;
+}
+a{
+    border: 2px dotted;
+    width:25%;
+    text-decoration: none;
+    color:darkolivegreen;
+    padding:10px;
+    text-align: center;
+
+}
+
+a:hover{
+    background-color: darkolivegreen;
+    color: bisque;
+}
